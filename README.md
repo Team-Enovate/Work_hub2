@@ -6,6 +6,9 @@
 <p>We are also commited to continuous development of this project because it we are planning to integrate so many features like a chat feature,a social media connect feature and a fully functioning DApp wallet inside the app, so that all interactions and payment between clients and freelancers will be done in-App.  </p> <br>
 
 ## Project Snapshot <br>
+![Alt text](https://drive.google.com/uc?export=view&id=1Z4eMJhFwYdiykOKKsi8TiJH0YODB7nAl "Optional title")
+<br>
+![Alt text](https://drive.google.com/uc?export=view&id=1RL9WmhICnBJDwGgIN5Qk-Rq_2hqXh7Om "Optional title")<br>
 
 
 
